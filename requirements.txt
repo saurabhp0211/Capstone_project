@@ -1,0 +1,9 @@
+fastapi 
+uvicorn
+streamlit
+langgraph
+langchain-anthropic
+mcp
+pydantic
+python-dotenv
+fastmcp
